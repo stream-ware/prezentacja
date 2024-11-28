@@ -146,5 +146,5 @@ Prezentacja przedstawia wizję przyszłości, w której Streamware może odegra�
 + ["Building Real-Time Applications with Node.js"](https://nodejs.org/en/docs/guides/real-time-apps)
 + ["React Performance Optimization"](https://react.dev/learn/performance)
 
-<script src="https://researcher.pl/valid-links/valid-links.js"></script>
-<link rel="stylesheet" href="https://researcher.pl/page/styles.css">
+<script src="https://sapletta.com/valid-links/valid-links.js"></script>
+<link rel="stylesheet" href="https://sapletta.com/page/styles.css">
