@@ -145,3 +145,6 @@ Prezentacja przedstawia wizję przyszłości, w której Streamware może odegra�
 + ["Education Technology Trends 2024" - raport Deloitte](https://www2.deloitte.com/insights/education-technology)
 + ["Building Real-Time Applications with Node.js"](https://nodejs.org/en/docs/guides/real-time-apps)
 + ["React Performance Optimization"](https://react.dev/learn/performance)
+
+<script src="https://researcher.pl/valid-links/valid-links.js"></script>
+<link rel="stylesheet" href="https://researcher.pl/page/styles.css">
