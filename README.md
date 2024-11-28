@@ -9,6 +9,7 @@ Ta prezentacja przedstawia wizję przyszłości, w której tradycyjne granice mi
 + Interaktywne treści wideo będą płynnie integrowane z systemami płatności, gamifikacją i zaawansowanymi narzędziami do współpracy.
 + Tradycyjne granice między edukacją online, rozrywką i handlem elektronicznym zanikają, tworząc nową jakość doświadczeń cyfrowych.
 
++ **streamware** - streamowanie interakcji poprzez współdzielenie mediów i aplikacji  w czasie rzeczywistym
 
 ## Główne różnice
 
@@ -138,6 +139,7 @@ Prezentacja przedstawia wizję przyszłości, w której Streamware może odegra�
 + real-time-apps
 + realtimeapp
 + RTASP - real-time application streaming protocoll
++ streamware - streamowanie interakcji poprzez współdzielenie mediów i aplikacji  w czasie rzeczywistym
 
 ## Źródła i dodatkowe materiały do zgłębienia tematu:
 
