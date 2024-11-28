@@ -46,6 +46,8 @@ Twitch Extensions to narzędzia umożliwiające twórcom na Twitchu dodawanie in
 - Integracja z Twitch API pozwala na tworzenie treści powiązanych z subskrypcjami, bitami i innymi mechanizmami specyficznymi dla Twitcha.
 - Rozszerzenia można aktywować za pomocą jednego kliknięcia, bez konieczności skomplikowanej konfiguracji po stronie twórcy.
 
++ [Top 10 Twitch Extensions Every Streamer Should Know About](https://influencermarketinghub.com/top-twitch-extensions/)
+  
 ---
 
 ### YouTube Interactive Features
@@ -62,6 +64,8 @@ YouTube Interactive Features to zestaw narzędzi umożliwiających dodawanie int
 - Proste w użyciu i dostępne bez potrzeby instalowania dodatkowych rozszerzeń.
 - Mocno zintegrowane z algorytmem YouTube, pomagając zwiększyć zaangażowanie widzów.
 
++ [Create interactive video and more on YouTube](https://hihaho.com/blog/interactive-video-on-youtube/)
+  
 ---
 
 ### Amazon IVS (Interactive Video Service)
@@ -78,6 +82,8 @@ Amazon IVS to usługa chmurowa umożliwiająca twórcom tworzenie niestandardowy
 - Wykorzystanie technologii AWS do tworzenia unikalnych doświadczeń użytkowników.
 - Możliwość użycia niskiego opóźnienia (low latency) do szybkiej i płynnej interakcji z widzami.
 
++ [Amazon Interactive Video Service Features](https://aws.amazon.com/ivs/features/)
+  
 ---
 
 ## Przyszłość Interaktywnych Mediów 2025-2030
