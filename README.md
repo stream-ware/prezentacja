@@ -1,7 +1,6 @@
-# prezentacja
-Streamware - przyszłość w rozrywce i edukacji, streamowanie aplikacji
+![streamware-hd](https://github.com/user-attachments/assets/9bd79f55-7784-400a-bec2-16b1f3f3176a)
 
-
+# Streamware - przyszłość w rozrywce i edukacji, streamowanie aplikacji
 
 
 ### Twitch Extensions
