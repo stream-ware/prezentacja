@@ -128,6 +128,10 @@ Ta wizja przyszłości wymaga solidnych fundamentów technologicznych, które St
 
 Prezentacja przedstawia wizję przyszłości, w której Streamware może odegrać kluczową rolę w transformacji cyfrowej edukacji i rozrywki, oferując zaawansowane, interaktywne doświadczenia dostępne bezpośrednio w przeglądarce.
 
+## META
++ real-time-apps
++ realtimeapp
++ RTASP - real-time application streaming protocoll
 
 ## Źródła i dodatkowe materiały do zgłębienia tematu:
 
@@ -142,9 +146,9 @@ Prezentacja przedstawia wizję przyszłości, w której Streamware może odegra�
 + ["WebRTC 1.0: Real-Time Communication Between Browsers"](https://www.w3.org/TR/webrtc/)
 + ["Interactive Live Streaming Protocols Comparison"](https://www.wowza.com/blog/streaming-protocols)
 + ["The State of JavaScript 2024" - trendy w rozwoju technologii frontendowych](https://stateofjs.com)
-+ ["Education Technology Trends 2024" - raport Deloitte](https://www2.deloitte.com/insights/education-technology)
-+ ["Building Real-Time Applications with Node.js"](https://nodejs.org/en/docs/guides/real-time-apps)
-+ ["React Performance Optimization"](https://react.dev/learn/performance)
++ [Tech Trends 2024](https://www2.deloitte.com/ro/en/pages/about-deloitte/articles/deloitte-tech-trends-2024.html)
++ [Real-Time Applications with Node.js and WebSockets - DEV Community](https://dev.to/blissfelix3/real-time-applications-with-nodejs-and-websockets-1fcc)
++ [Best Practices for React Performance Optimization | HackerNoon](https://hackernoon.com/best-practices-for-react-performance-optimization)
 
 <script src="valid-links.js"></script>
 <link rel="stylesheet" href="https://sapletta.com/page/styles.css">
