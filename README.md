@@ -50,6 +50,7 @@ Amazon IVS to usługa chmurowa umożliwiająca twórcom tworzenie niestandardowy
 
 ---
 
+```
 ### Główne różnice
 | Funkcja                 | **Twitch Extensions**            | **YouTube Interactive Features**   | **Amazon IVS**                     |
 |-------------------------|-----------------------------------|-------------------------------------|-------------------------------------|
@@ -57,5 +58,5 @@ Amazon IVS to usługa chmurowa umożliwiająca twórcom tworzenie niestandardowy
 | **Stopień personalizacji** | Ograniczona do ekosystemu Twitch | Ograniczona do funkcji YouTube      | Bardzo wysoka                      |
 | **Wymagana wiedza techniczna** | Niska (większość gotowych narzędzi) | Niska                               | Wysoka (programowanie)             |
 | **Główne zalety**        | Integracja z funkcjami Twitcha   | Łatwość użycia i gotowe funkcje     | Pełna elastyczność i skalowalność   |
-
+```
 Każde narzędzie jest skierowane do innej grupy odbiorców i oferuje różne poziomy interakcji w zależności od potrzeb twórcy.
